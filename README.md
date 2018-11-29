@@ -1,5 +1,5 @@
 # PUBLICATIONS
-## Journal Papers
+## Journal 
 1. X. Wang, Y. Ge, T. Gui, S. Zhang, Qi Wang. "Research on optimum design of hydraulic flat transporter
 frame based on response surface method," China Mechanical Engineering, 2013, (16):2261-2265.
 2. X. Wang, P. Zhao, T. Gui, S. Zhang, Z. Li, "Research of a new brake energy recovery system of the
@@ -8,7 +8,7 @@ light electric car," Journal of Jiangsu University of Science and Technology(Nat
 3. X. Wang, W. Zhu, Q. Li, and T. Gui. "Application of the GPS technology in the measurement of the
 vehicle parameters," Journal of Guangxi University(Natural Science Edition), 2011, (02):241-245.
 
-## Conference Papers
+## Conference 
 1. C. Ma, T. Gui, X. Dang, Y. Chen, and D. Wilkins. "Integration of Cancer Data through Multiple Mixed
 Graphical Model." In Proceedings of the 2018 ACM International Conference on Bioinformatics,
 Computational Biology, and Health Informatics, pp. 341-350. ACM, 2018.
