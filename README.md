@@ -22,12 +22,15 @@ Technology (ICIT), Taipei, Taiwan, 2016, pp. 1944-1949.
 cancer driver genes," 2015 IEEE International Conference on Bioinformatics and Biomedicine (BIBM),
 Washington, DC, USA, 2015, pp. 351-356.
 
-## Posters and Talks
-1. T. Gui, C. Ma, J. Nakarmi, DE Wilkins, Y. Chen. 2016. “ARM-B: Mining Biclusters With Association
+## Talks
+
+
+## Posters 
+1. T. Gui, C. Ma, J. Nakarmi, DE Wilkins, Y. Chen. “ARM-B: Mining Biclusters With Association
 Rules In Gene Expression Data Analysis”. MidSouth Computational Biology and Bioinformatics Society
-(MCBIOS) Conference.
-2. T. Gui, Z. Zhao, DE Wilkins, Y. Chen. 2014. “A Pairwise Feature Selection Method for Gene Data Using
-Information Gain”. International Conference on Intelligent Systems for Molecular Biology (ISMB).
-3. T. Gui, X. Nan, DE Wilkins, and Y. Chen. 2013. "Classification and Feature Selection Using Hybrid Top
+(MCBIOS) Conference. 2016.
+2. T. Gui, Z. Zhao, DE Wilkins, Y. Chen. “A Pairwise Feature Selection Method for Gene Data Using
+Information Gain”. International Conference on Intelligent Systems for Molecular Biology (ISMB). 2014.
+3. T. Gui, X. Nan, DE Wilkins, and Y. Chen. "Classification and Feature Selection Using Hybrid Top
 Scoring Pairs on Microarray Data". MidSouth Computational Biology and Bioinformatics Society
-(MCBIOS) Conference.
+(MCBIOS) Conference. 2013.
