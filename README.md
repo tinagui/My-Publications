@@ -28,9 +28,9 @@ Washington, DC, USA, 2015, pp. 351-356.
 ## Posters 
 1. T. Gui, C. Ma, J. Nakarmi, DE Wilkins, Y. Chen. “ARM-B: Mining Biclusters With Association
 Rules In Gene Expression Data Analysis”. MidSouth Computational Biology and Bioinformatics Society
-(MCBIOS) Conference. 2016. (Third Poster Award)
+(MCBIOS) Conference. 2016. *Third Poster Award
 2. T. Gui, Z. Zhao, DE Wilkins, Y. Chen. “A Pairwise Feature Selection Method for Gene Data Using
-Information Gain”. International Conference on Intelligent Systems for Molecular Biology (ISMB). 2014. (Travel Grant)
+Information Gain”. International Conference on Intelligent Systems for Molecular Biology (ISMB). 2014. *Travel Grant
 3. T. Gui, X. Nan, DE Wilkins, and Y. Chen. "Classification and Feature Selection Using Hybrid Top
 Scoring Pairs on Microarray Data". MidSouth Computational Biology and Bioinformatics Society
-(MCBIOS) Conference. 2013. (First Poster Award)
+(MCBIOS) Conference. 2013. *First Poster Award
