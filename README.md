@@ -1,5 +1,5 @@
 # PUBLICATIONS
-## Journal
+## Journal Papers
 1. X. Wang, Y. Ge, T. Gui, S. Zhang, Qi Wang. "Research on optimum design of hydraulic flat transporter
 frame based on response surface method," China Mechanical Engineering, 2013, (16):2261-2265.
 2. X. Wang, P. Zhao, T. Gui, S. Zhang, Z. Li, "Research of a new brake energy recovery system of the
