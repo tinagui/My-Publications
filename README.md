@@ -1,8 +1,7 @@
 # PUBLICATIONS
 ## Journal 
 1. Y. She, X. Wang, **T. Gui**, and J. Cai, "Lawn Plant Identification and Segmentation based on Least
-Squares Support Vector Machine and Multifeature Fusion". Journal of Electronic Imaging, 2019, 28(2)
-023034.
+Squares Support Vector Machine and Multifeature Fusion". Journal of Electronic Imaging, 2019, 28(2) 023034.
 1. B. Chen, **T. Gui**, S. Cheng, and X. Li, "Research on Operation Cost in Urban Transportation System
 Based on Stopping Distance and Vehicle Density.” Journal of Simulation. 2019, (01):67-72.
 1. X. Wang, Y. Ge, **T. Gui**, S. Zhang, Qi Wang. "Research on optimum design of hydraulic flat transporter
